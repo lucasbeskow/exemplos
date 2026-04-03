@@ -1,0 +1,1 @@
+[Skip to main content](https://docs.plataforma.betha.cloud/docs/design/fundamentos/indice/#docusaurus_skipToContent_fallback)
